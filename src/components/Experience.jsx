@@ -1,5 +1,14 @@
 const experiences = [
     {
+        title: 'Business Analyst',
+        company: 'Turing (Remote)',
+        date: 'Mar 2026 – Present',
+        points: [
+            'Working with Large Language Models (LLMs), Data Science, and Machine Learning to drive data-informed business decisions.',
+            'Designing and optimizing intelligent systems to enhance operational efficiency and product strategy.',
+        ],
+    },
+    {
         title: 'Teaching Assistant',
         company: 'Dept. of Mathematics and Physics — North South University, Dhaka',
         date: 'Jan 2025 – Present',
